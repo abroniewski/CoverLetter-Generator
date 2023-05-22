@@ -55,7 +55,7 @@ def main():
 
     # Calculate and display the elapsed time taken to process all job ads
     elapsed_time = round(time.time() - start_time, 2)
-    input(f"\nCompleted all jobs [{count}] in {elapsed_time} seconds.")
+    print(f"\nCompleted all jobs [{count}] in {elapsed_time} seconds.")
 
 # Run the main function
 if __name__ == "__main__":
