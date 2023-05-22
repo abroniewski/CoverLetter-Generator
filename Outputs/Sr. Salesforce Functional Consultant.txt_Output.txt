@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Senior Salesforce Functional Consultant role at Wipro. As a PMP-certified Project Manager with over ten years of professional work experience in leading teams and delivering complex projects, I believe I have the skills and expertise to excel in this role.
+
+My experience as a Strategic Project Manager at TC Energy involved managing response to emergency incidents, completing root cause analysis investigations, and leading teams of 30+ people during 23 emergencies using agile methodology. Through my leadership and coaching skills, I have mentored, coached, and trained 35 staff members and delivered online mentorship workshops to over 60 students and new-grads. I have also used Agile PM to increase team efficiency by 77% and aligned 18 functional groups in process development.
+
+In addition, I have a Master's degree in Big Data Management and Analytics, where I optimized query estimation in PostgreSQL to reduce query time from 50+ minutes to 1.15s, analyzed 12M+ datapoints from real-time data collected over 3 weeks on the STIB network in Brussels, and designed knowledge graphs and implemented graph databases for various purposes.
+
+I have a Bachelor's degree in Mechanical Engineering, where I completed 16 integrity projects ($28M value) in compliance with internal procedures and external regulatory requirements, and supervised in the field and completed reporting during project execution. I also have a Project Management Professional (PMP) certification and am a Registered Professional Engineer (P.Eng.).
+
+As a strong team player and people manager, I have led, motivated, and inspired others, and I am also able to structure and organize work in a way so that it runs smoothly and efficiently. I have the ability to make complex things easy to understand and am eager to learn and have a positive attitude. Furthermore, I am customer and quality-driven and firmly believe in representing and promoting core company values.
+
+With my skills and experience, I believe I am an excellent fit for this role and would be excited to join Wipro's dynamic team. Thank you for considering my application.
+
+Sincerely,
+Adam Broniewski

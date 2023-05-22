@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Data Product Owner position at Signify Technology. With over 10 years of experience in project management and data analytics, I am confident that my skills align well with the requirements of this role.
+
+In my previous role as a Strategic Project Manager at TC Energy, I successfully managed teams and projects using Agile methodologies and prioritized product improvements to meet business needs. My experience with data analytics and understanding of data processing and ingestion, including consumer behavior, ETLs, and schemas, will enable me to take ownership of Data products and ensure they adhere to compliance set by the Data Governance Board. I have also gained a strong understanding of privacy concepts and GDPR, which will be valuable in this role.
+
+As a Data Product Owner, I know that communication and management skills are essential. I have extensive experience interacting with business stakeholders and all levels of an organization. Moreover, I have developed excellent presentation and written communication skills, and my ability to provide clear verbal and written plans ensures that people feel aligned and projects are executed within constraints while minimizing commercial impact.
+
+Here are some specific achievements that demonstrate my ability to be a successful Data Product Owner:
+
+- Analyzed 12M+ datapoints from real-time data collected over 3 weeks on STIB network in Brussels. Developed an algorithm to manage lack of unique IDs, completed statistical analysis of on-time performance and predictive analysis of transit usage with multiple machine learning models.
+- Co-created a team strategy and goals aligned with business unit plan. Implemented rapid feedback and accountability system to cultivate continuous improvement. Adopted Kanban method to manage work, pursue incremental change, and focus on customer needs. As a result, we improved team efficiency by 77%.
+- Developed incident response processes, institutionalized best practices, and created tools and templates resulting in improved response quality and stakeholder engagement. Aligned 18 functional groups in process development resulting in improved incident response quality.
+
+Thank you for considering my application. Please find my updated CV attached for your review. I am available to start in June and can be contacted at the phone number listed in my resume.
+
+Best regards,
+
+Adam Broniewski, P. Eng., PMP
