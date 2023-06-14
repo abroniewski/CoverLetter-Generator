@@ -40,6 +40,8 @@ def main():
     
     # Iterate through each job advertisement and generate a cover letter
     for count, filename in job_ads:
+        if filename == '.DS_Store':
+            continue
         print(f"Current Job [{count}]: {filename}")
 
         # Read the content of the job advertisement
