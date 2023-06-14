@@ -52,6 +52,8 @@ def main():
         cover_letter = generate_cover_letter(experience, job_ad)
 
         # Save the generated cover letter in the output directory
+        filename = filename.split('.')[0]
+        print(filename)
         with open(os.path.join(OUTPUT_DIR, f'{filename}_Output.txt'), 'w') as file:
             file.write(cover_letter)
 
